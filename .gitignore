@@ -1,0 +1,4 @@
+.env
+*.pyc
+/chroma_db
+/whatsapp-data
