@@ -33,7 +33,7 @@ const Sidebar = () => {
   };
 
   const menuItems = [
-    { path: '/dashboard', icon: LayoutDashboard, label: 'Overview', tourClass: 'tour-dashboard' },
+    // { path: '/dashboard', icon: LayoutDashboard, label: 'Overview', tourClass: 'tour-dashboard' },
     { path: '/dashboard/chatbot', icon: MessageSquare, label: 'Aarogya AI', tourClass: 'tour-ai-assistant' },
     { path: '/dashboard/userinfo', icon: User, label: 'User Data' },
     { path: '/dashboard/reports', icon: FileText, label: 'Reports' },
@@ -42,7 +42,7 @@ const Sidebar = () => {
     { path: '/dashboard/live', icon: Activity, label: 'HealthAI Live' },
     { path: '/dashboard/mri-scan', icon: Brain, label: 'MRI Scan' },
     // { path: '/dashboard/diagnosis', icon: Stethoscope, label: 'Diagnosis' },
-    // { path: '/dashboard/health-plan', icon: ClipboardList, label: 'Health Plan' },
+    { path: '/dashboard/health-plan', icon: ClipboardList, label: 'Health Plan' },
   ];
 
   return (
@@ -155,8 +155,8 @@ const Sidebar = () => {
               }}
               className="mt-4 w-full flex items-center justify-center px-4 py-2 text-sm font-medium text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/20 rounded-lg hover:bg-blue-100 dark:hover:bg-blue-900/30 transition-colors"
             >
-              <HelpCircle className="h-4 w-4 mr-2" />
-              Take a Tour
+              {/* <HelpCircle className="h-4 w-4 mr-2" />
+              Take a Tour */}
             </button>
           </div>
         </div>
