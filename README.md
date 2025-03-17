@@ -45,6 +45,8 @@ This project was built during **CodeCrafters 2.0**, a **24-hour hackathon** held
    ```bash
    npm run dev
 
+---
+
 ## 📢 **Achievements & Takeaways**  
 🏆 **Built a fully functional AI-powered system within 24 hours.**  
 💡 **Experimented with multiple AI/ML models to achieve higher accuracy.**  
