@@ -44,3 +44,19 @@ This project was built during **CodeCrafters 2.0**, a **24-hour hackathon** held
 4. Run the project:
    ```bash
    npm run dev
+
+## 📢 **Achievements & Takeaways**  
+🏆 **Built a fully functional AI-powered system within 24 hours.**  
+💡 **Experimented with multiple AI/ML models to achieve higher accuracy.**  
+🤝 **Worked collaboratively as a team to develop an impactful solution.**  
+
+---
+
+## 🤝 **Contributors**  
+👨‍💻 **Shaikh Ibrahim Mohammed Rashid** – Team Lead  
+👨‍💻 **Ali**  
+👨‍💻 **Gulamnabi**  
+
+---
+
+🔗 **GitHub Repository:** [Run Time Error](https://github.com/Shaikh-Ibrahim-Mohammed-Rashid/Run-Time-Error.git)  
